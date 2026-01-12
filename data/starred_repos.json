@@ -5,7 +5,7 @@
     "name": "iptv",
     "full_name": "vbskycn/iptv",
     "description": "iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。",
-    "stargazers_count": 5172,
+    "stargazers_count": 5180,
     "language": "HTML"
   },
   {
@@ -14,7 +14,7 @@
     "name": "I-Am-Pad",
     "full_name": "Houvven/I-Am-Pad",
     "description": "Enable Pad login on mobile phone.",
-    "stargazers_count": 299,
+    "stargazers_count": 300,
     "language": "Kotlin"
   },
   {
@@ -23,7 +23,7 @@
     "name": "ppt-master",
     "full_name": "hugohe3/ppt-master",
     "description": "AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈等多格式 | 15 个示例 | 229 页 | 生成可编辑的 ppt 格式",
-    "stargazers_count": 997,
+    "stargazers_count": 1020,
     "language": "Python"
   },
   {
@@ -41,7 +41,7 @@
     "name": "daisyui",
     "full_name": "saadeghi/daisyui",
     "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
-    "stargazers_count": 39872,
+    "stargazers_count": 39879,
     "language": "Svelte"
   },
   {
@@ -50,7 +50,7 @@
     "name": "primevue",
     "full_name": "primefaces/primevue",
     "description": "Next Generation Vue UI Component Library",
-    "stargazers_count": 13920,
+    "stargazers_count": 13924,
     "language": "Vue"
   },
   {
@@ -59,7 +59,7 @@
     "name": "blurhash",
     "full_name": "woltapp/blurhash",
     "description": "A very compact representation of a placeholder for an image.",
-    "stargazers_count": 16871,
+    "stargazers_count": 16874,
     "language": "C"
   },
   {
@@ -68,7 +68,7 @@
     "name": "xiaomi-miloco",
     "full_name": "XiaoMi/xiaomi-miloco",
     "description": "Xiaomi Miloco",
-    "stargazers_count": 2160,
+    "stargazers_count": 2161,
     "language": "Python"
   },
   {
@@ -77,7 +77,7 @@
     "name": "xiaomusic",
     "full_name": "hanxi/xiaomusic",
     "description": "使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。",
-    "stargazers_count": 8821,
+    "stargazers_count": 8832,
     "language": "Python"
   },
   {
@@ -104,7 +104,7 @@
     "name": "crewAI",
     "full_name": "crewAIInc/crewAI",
     "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
-    "stargazers_count": 42502,
+    "stargazers_count": 42531,
     "language": "Python"
   },
   {
@@ -122,7 +122,7 @@
     "name": "mise",
     "full_name": "jdx/mise",
     "description": "dev tools, env vars, task runner",
-    "stargazers_count": 22901,
+    "stargazers_count": 22925,
     "language": "Rust"
   },
   {
@@ -131,7 +131,7 @@
     "name": "iflow-cli",
     "full_name": "iflow-ai/iflow-cli",
     "description": "iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation.",
-    "stargazers_count": 4168,
+    "stargazers_count": 4175,
     "language": "Shell"
   },
   {
@@ -140,7 +140,7 @@
     "name": "pot-desktop",
     "full_name": "pot-app/pot-desktop",
     "description": "🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.",
-    "stargazers_count": 16642,
+    "stargazers_count": 16651,
     "language": "JavaScript"
   },
   {
@@ -167,7 +167,7 @@
     "name": "free-font",
     "full_name": "wordshub/free-font",
     "description": "大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...",
-    "stargazers_count": 6009,
+    "stargazers_count": 6015,
     "language": "JavaScript"
   },
   {
@@ -176,7 +176,7 @@
     "name": "EcoPaste",
     "full_name": "EcoPasteHub/EcoPaste",
     "description": "🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool",
-    "stargazers_count": 6640,
+    "stargazers_count": 6643,
     "language": "TypeScript"
   },
   {
@@ -185,7 +185,7 @@
     "name": "jotai",
     "full_name": "pmndrs/jotai",
     "description": "👻 Primitive and flexible state management for React",
-    "stargazers_count": 20887,
+    "stargazers_count": 20884,
     "language": "TypeScript"
   },
   {
@@ -203,7 +203,7 @@
     "name": "memos",
     "full_name": "usememos/memos",
     "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
-    "stargazers_count": 52886,
+    "stargazers_count": 53096,
     "language": "Go"
   },
   {
@@ -212,7 +212,7 @@
     "name": "readest",
     "full_name": "readest/readest",
     "description": "Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.",
-    "stargazers_count": 16254,
+    "stargazers_count": 16279,
     "language": "TypeScript"
   },
   {
@@ -230,7 +230,7 @@
     "name": "cdk",
     "full_name": "linux-do/cdk",
     "description": "LINUX DO CD key",
-    "stargazers_count": 629,
+    "stargazers_count": 628,
     "language": "TypeScript"
   },
   {
@@ -266,7 +266,7 @@
     "name": "mermaid",
     "full_name": "mermaid-js/mermaid",
     "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
-    "stargazers_count": 85233,
+    "stargazers_count": 85259,
     "language": "TypeScript"
   },
   {
@@ -275,7 +275,7 @@
     "name": "note-gen",
     "full_name": "codexu/note-gen",
     "description": "A cross-platform Markdown AI note-taking software.",
-    "stargazers_count": 10482,
+    "stargazers_count": 10490,
     "language": "TypeScript"
   },
   {
@@ -302,7 +302,7 @@
     "name": "react-native-elements",
     "full_name": "react-native-elements/react-native-elements",
     "description": "Cross-Platform React Native UI Toolkit",
-    "stargazers_count": 25733,
+    "stargazers_count": 25735,
     "language": "MDX"
   },
   {
@@ -311,7 +311,7 @@
     "name": "ZhiHuDaily-React-Native",
     "full_name": "race604/ZhiHuDaily-React-Native",
     "description": "A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).",
-    "stargazers_count": 3717,
+    "stargazers_count": 3718,
     "language": "JavaScript"
   },
   {
@@ -320,7 +320,7 @@
     "name": "bye",
     "full_name": "J3n5en/bye",
     "description": null,
-    "stargazers_count": 1091,
+    "stargazers_count": 1089,
     "language": null
   },
   {
@@ -374,7 +374,7 @@
     "name": "MoneyPrinterTurbo",
     "full_name": "harry0703/MoneyPrinterTurbo",
     "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-    "stargazers_count": 48844,
+    "stargazers_count": 48857,
     "language": "Python"
   },
   {
@@ -383,7 +383,7 @@
     "name": "react-spring",
     "full_name": "pmndrs/react-spring",
     "description": "✌️ A spring physics based React animation library",
-    "stargazers_count": 29015,
+    "stargazers_count": 29017,
     "language": "TypeScript"
   },
   {
@@ -392,7 +392,7 @@
     "name": "Qwen3",
     "full_name": "QwenLM/Qwen3",
     "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
-    "stargazers_count": 26104,
+    "stargazers_count": 26111,
     "language": "Python"
   },
   {
@@ -437,7 +437,7 @@
     "name": "AiToEarn",
     "full_name": "yikart/AiToEarn",
     "description": "Let's use AI to Earn!",
-    "stargazers_count": 10041,
+    "stargazers_count": 10057,
     "language": "TypeScript"
   },
   {
@@ -446,7 +446,7 @@
     "name": "supabase",
     "full_name": "supabase/supabase",
     "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-    "stargazers_count": 95955,
+    "stargazers_count": 95994,
     "language": "TypeScript"
   },
   {
@@ -455,7 +455,7 @@
     "name": "react-bits",
     "full_name": "DavidHDev/react-bits",
     "description": "An open source collection of animated, interactive & fully customizable React components for building memorable websites.",
-    "stargazers_count": 33734,
+    "stargazers_count": 33776,
     "language": "JavaScript"
   },
   {
@@ -464,7 +464,7 @@
     "name": "inspira-ui",
     "full_name": "unovue/inspira-ui",
     "description": "Build beautiful website using Vue & Nuxt.",
-    "stargazers_count": 4487,
+    "stargazers_count": 4490,
     "language": "Vue"
   },
   {
@@ -482,7 +482,7 @@
     "name": "browser-tools-mcp",
     "full_name": "AgentDeskAI/browser-tools-mcp",
     "description": "Monitor browser logs directly from Cursor and other MCP compatible IDEs.",
-    "stargazers_count": 6968,
+    "stargazers_count": 6970,
     "language": "JavaScript"
   },
   {
@@ -509,7 +509,7 @@
     "name": "awesome-mcp-servers",
     "full_name": "punkpeye/awesome-mcp-servers",
     "description": "A collection of MCP servers.",
-    "stargazers_count": 78568,
+    "stargazers_count": 78616,
     "language": null
   },
   {
@@ -518,7 +518,7 @@
     "name": "typescript-sdk",
     "full_name": "modelcontextprotocol/typescript-sdk",
     "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
-    "stargazers_count": 11269,
+    "stargazers_count": 11282,
     "language": "TypeScript"
   },
   {
@@ -527,7 +527,7 @@
     "name": "ragflow",
     "full_name": "infiniflow/ragflow",
     "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-    "stargazers_count": 71216,
+    "stargazers_count": 71258,
     "language": "Python"
   },
   {
@@ -536,7 +536,7 @@
     "name": "servers",
     "full_name": "modelcontextprotocol/servers",
     "description": "Model Context Protocol Servers",
-    "stargazers_count": 75907,
+    "stargazers_count": 75963,
     "language": "TypeScript"
   },
   {
@@ -545,7 +545,7 @@
     "name": "blender-mcp",
     "full_name": "ahujasid/blender-mcp",
     "description": null,
-    "stargazers_count": 14905,
+    "stargazers_count": 14924,
     "language": "Python"
   },
   {
@@ -554,7 +554,7 @@
     "name": "cursor-talk-to-figma-mcp",
     "full_name": "grab/cursor-talk-to-figma-mcp",
     "description": "TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.",
-    "stargazers_count": 5874,
+    "stargazers_count": 5875,
     "language": "JavaScript"
   },
   {
@@ -563,7 +563,7 @@
     "name": "cheerio",
     "full_name": "cheeriojs/cheerio",
     "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML.",
-    "stargazers_count": 30005,
+    "stargazers_count": 30006,
     "language": "TypeScript"
   },
   {
@@ -572,7 +572,7 @@
     "name": "proxypin",
     "full_name": "wanghongenpin/proxypin",
     "description": "Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems",
-    "stargazers_count": 11371,
+    "stargazers_count": 11374,
     "language": "Dart"
   },
   {
@@ -590,7 +590,7 @@
     "name": "dnf",
     "full_name": "1995chen/dnf",
     "description": null,
-    "stargazers_count": 1743,
+    "stargazers_count": 1747,
     "language": "Shell"
   },
   {
@@ -599,7 +599,7 @@
     "name": "v2rayN",
     "full_name": "2dust/v2rayN",
     "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
-    "stargazers_count": 94294,
+    "stargazers_count": 94354,
     "language": "C#"
   },
   {
@@ -608,7 +608,7 @@
     "name": "navidrome",
     "full_name": "navidrome/navidrome",
     "description": "🎧☁️ Your Personal Streaming Service",
-    "stargazers_count": 18444,
+    "stargazers_count": 18465,
     "language": "Go"
   },
   {
@@ -617,7 +617,7 @@
     "name": "browser-use",
     "full_name": "browser-use/browser-use",
     "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-    "stargazers_count": 75215,
+    "stargazers_count": 75264,
     "language": "Python"
   },
   {
@@ -626,7 +626,7 @@
     "name": "RevokeMsgPatcher",
     "full_name": "huiyadanli/RevokeMsgPatcher",
     "description": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
-    "stargazers_count": 36190,
+    "stargazers_count": 36199,
     "language": "C#"
   },
   {
@@ -635,7 +635,7 @@
     "name": "Stirling-PDF",
     "full_name": "Stirling-Tools/Stirling-PDF",
     "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-    "stargazers_count": 72950,
+    "stargazers_count": 72973,
     "language": "TypeScript"
   },
   {
@@ -662,7 +662,7 @@
     "name": "tfjs-models",
     "full_name": "tensorflow/tfjs-models",
     "description": "Pretrained models for TensorFlow.js",
-    "stargazers_count": 14738,
+    "stargazers_count": 14737,
     "language": "TypeScript"
   },
   {
@@ -671,7 +671,7 @@
     "name": "fastapi_best_architecture",
     "full_name": "fastapi-practices/fastapi_best_architecture",
     "description": "FastAPI 企业级后端架构解决方案 | Enterprise backend with fastapi、sqlalchemy,、celery、pydantic、grafana、docker...",
-    "stargazers_count": 1989,
+    "stargazers_count": 1991,
     "language": "Python"
   },
   {
@@ -680,7 +680,7 @@
     "name": "awesome-cursorrules",
     "full_name": "PatrickJS/awesome-cursorrules",
     "description": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
-    "stargazers_count": 36881,
+    "stargazers_count": 36907,
     "language": "MDX"
   },
   {
@@ -689,7 +689,7 @@
     "name": "agents-course",
     "full_name": "huggingface/agents-course",
     "description": "This repository contains the Hugging Face Agents Course. ",
-    "stargazers_count": 24721,
+    "stargazers_count": 24738,
     "language": "MDX"
   },
   {
@@ -698,7 +698,7 @@
     "name": "browser",
     "full_name": "lightpanda-io/browser",
     "description": "Lightpanda: the headless browser designed for AI and automation",
-    "stargazers_count": 11379,
+    "stargazers_count": 11388,
     "language": "Zig"
   },
   {
@@ -707,7 +707,7 @@
     "name": "botgroup.chat",
     "full_name": "maojindao55/botgroup.chat",
     "description": "AI机器人群聊",
-    "stargazers_count": 1516,
+    "stargazers_count": 1515,
     "language": "TypeScript"
   },
   {
@@ -716,7 +716,7 @@
     "name": "gpt-engineer",
     "full_name": "AntonOsika/gpt-engineer",
     "description": "CLI platform to experiment with codegen. Precursor to: https://lovable.dev",
-    "stargazers_count": 55178,
+    "stargazers_count": 55182,
     "language": "Python"
   },
   {
@@ -725,7 +725,7 @@
     "name": "awesome_docker_cn",
     "full_name": "coracoo/awesome_docker_cn",
     "description": "上百款可docker部署的项目，包含项目地址、项目部署教程等。",
-    "stargazers_count": 3261,
+    "stargazers_count": 3266,
     "language": null
   },
   {
@@ -734,7 +734,7 @@
     "name": "obsidian-livesync",
     "full_name": "vrtmrz/obsidian-livesync",
     "description": null,
-    "stargazers_count": 8913,
+    "stargazers_count": 8933,
     "language": "TypeScript"
   },
   {
@@ -743,7 +743,7 @@
     "name": "langchain",
     "full_name": "langchain-ai/langchain",
     "description": "🦜🔗 The platform for reliable agents.",
-    "stargazers_count": 123904,
+    "stargazers_count": 123949,
     "language": "Python"
   },
   {
@@ -752,7 +752,7 @@
     "name": "milvus",
     "full_name": "milvus-io/milvus",
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "stargazers_count": 42157,
+    "stargazers_count": 42172,
     "language": "Go"
   },
   {
@@ -761,7 +761,7 @@
     "name": "dify",
     "full_name": "langgenius/dify",
     "description": "Production-ready platform for agentic workflow development.",
-    "stargazers_count": 125410,
+    "stargazers_count": 125544,
     "language": "Python"
   },
   {
@@ -770,7 +770,7 @@
     "name": "AutoGPT",
     "full_name": "Significant-Gravitas/AutoGPT",
     "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-    "stargazers_count": 180988,
+    "stargazers_count": 181014,
     "language": "Python"
   },
   {
@@ -779,7 +779,7 @@
     "name": "slash-admin",
     "full_name": "d3george/slash-admin",
     "description": "A Modern React Admin Template. It is based on React 19, Vite and TypeScript. It's fast ! ",
-    "stargazers_count": 2894,
+    "stargazers_count": 2895,
     "language": "TypeScript"
   },
   {
@@ -797,7 +797,7 @@
     "name": "NuggetsBooklet",
     "full_name": "lm-rebooter/NuggetsBooklet",
     "description": "掘金小册",
-    "stargazers_count": 867,
+    "stargazers_count": 868,
     "language": "HTML"
   },
   {
@@ -806,7 +806,7 @@
     "name": "face-api.js",
     "full_name": "justadudewhohacks/face-api.js",
     "description": "JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js",
-    "stargazers_count": 17719,
+    "stargazers_count": 17718,
     "language": "TypeScript"
   },
   {
@@ -824,7 +824,7 @@
     "name": "hono",
     "full_name": "honojs/hono",
     "description": "Web framework built on Web Standards",
-    "stargazers_count": 28156,
+    "stargazers_count": 28166,
     "language": "TypeScript"
   },
   {
@@ -833,7 +833,7 @@
     "name": "BigDataView",
     "full_name": "iGaoWei/BigDataView",
     "description": "100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中",
-    "stargazers_count": 4857,
+    "stargazers_count": 4861,
     "language": "JavaScript"
   },
   {
@@ -851,7 +851,7 @@
     "name": "ddns-go",
     "full_name": "jeessy2/ddns-go",
     "description": "Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",
-    "stargazers_count": 16031,
+    "stargazers_count": 16039,
     "language": "Go"
   },
   {
@@ -878,7 +878,7 @@
     "name": "reference",
     "full_name": "jaywcjlove/reference",
     "description": "为开发人员分享快速参考备忘清单(速查表)",
-    "stargazers_count": 14845,
+    "stargazers_count": 14846,
     "language": "Dockerfile"
   },
   {
@@ -887,7 +887,7 @@
     "name": "liubai",
     "full_name": "yenche123/liubai",
     "description": "Supercharge yourself!",
-    "stargazers_count": 850,
+    "stargazers_count": 849,
     "language": "TypeScript"
   },
   {
@@ -896,7 +896,7 @@
     "name": "trpc",
     "full_name": "trpc/trpc",
     "description": "🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ",
-    "stargazers_count": 39314,
+    "stargazers_count": 39323,
     "language": "TypeScript"
   },
   {
@@ -905,7 +905,7 @@
     "name": "FlClash",
     "full_name": "chen08209/FlClash",
     "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
-    "stargazers_count": 29042,
+    "stargazers_count": 29091,
     "language": "Dart"
   },
   {
@@ -914,7 +914,7 @@
     "name": "clash-verge-rev",
     "full_name": "clash-verge-rev/clash-verge-rev",
     "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-    "stargazers_count": 91396,
+    "stargazers_count": 91532,
     "language": "TypeScript"
   },
   {
@@ -941,7 +941,7 @@
     "name": "autofit.js",
     "full_name": "Auto-Plugin/autofit.js",
     "description": "autofit.js 迄今为止最易用的自适应工具",
-    "stargazers_count": 1931,
+    "stargazers_count": 1932,
     "language": "TypeScript"
   },
   {
@@ -950,7 +950,7 @@
     "name": "serv00-play",
     "full_name": "frankiejun/serv00-play",
     "description": "serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送",
-    "stargazers_count": 2133,
+    "stargazers_count": 2132,
     "language": "Shell"
   },
   {
@@ -959,7 +959,7 @@
     "name": "DevNow",
     "full_name": "LaughingZhu/DevNow",
     "description": "📚 DevNow is an open source technology blog project. It currently hosts weekly news  （about  technology, development and product）, which is published every Monday morning. / DevNow 是一个精简的开源技术博客项目模版，支持 Vercel 一键部署，支持评论、搜索等功能，欢迎大家体验。",
-    "stargazers_count": 150,
+    "stargazers_count": 149,
     "language": "TypeScript"
   },
   {
@@ -968,7 +968,7 @@
     "name": "go-cursor-help",
     "full_name": "yuaotian/go-cursor-help",
     "description": "解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.",
-    "stargazers_count": 25548,
+    "stargazers_count": 25568,
     "language": "Shell"
   },
   {
@@ -995,7 +995,7 @@
     "name": "CloudflareSpeedTest",
     "full_name": "XIU2/CloudflareSpeedTest",
     "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
-    "stargazers_count": 24168,
+    "stargazers_count": 24189,
     "language": "Go"
   },
   {
@@ -1004,7 +1004,7 @@
     "name": "awesome-shadcn-ui",
     "full_name": "birobirobiro/awesome-shadcn-ui",
     "description": "A curated list of awesome things related to shadcn/ui.",
-    "stargazers_count": 18548,
+    "stargazers_count": 18550,
     "language": "TypeScript"
   },
   {
@@ -1013,7 +1013,7 @@
     "name": "shadcn-admin",
     "full_name": "satnaing/shadcn-admin",
     "description": "Admin Dashboard UI built with Shadcn and Vite.",
-    "stargazers_count": 10801,
+    "stargazers_count": 10811,
     "language": "TypeScript"
   },
   {
@@ -1022,7 +1022,7 @@
     "name": "table",
     "full_name": "TanStack/table",
     "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table",
-    "stargazers_count": 27540,
+    "stargazers_count": 27543,
     "language": "TypeScript"
   },
   {
@@ -1058,7 +1058,7 @@
     "name": "nps",
     "full_name": "yisier/nps",
     "description": "基于NPS 0.26.10 版本二开而来，NPS接力项目。",
-    "stargazers_count": 3140,
+    "stargazers_count": 3142,
     "language": "Go"
   },
   {
@@ -1085,7 +1085,7 @@
     "name": "motion",
     "full_name": "motiondivision/motion",
     "description": "A modern animation library for React and JavaScript",
-    "stargazers_count": 30710,
+    "stargazers_count": 30720,
     "language": "TypeScript"
   },
   {
@@ -1094,7 +1094,7 @@
     "name": "qiubaiying.github.io",
     "full_name": "qiubaiying/qiubaiying.github.io",
     "description": "BY Blog ->",
-    "stargazers_count": 3289,
+    "stargazers_count": 3290,
     "language": "HTML"
   },
   {
@@ -1112,7 +1112,7 @@
     "name": "react-native",
     "full_name": "facebook/react-native",
     "description": "A framework for building native applications using React",
-    "stargazers_count": 125025,
+    "stargazers_count": 125032,
     "language": "C++"
   },
   {
@@ -1121,7 +1121,7 @@
     "name": "dva",
     "full_name": "dvajs/dva",
     "description": "🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)",
-    "stargazers_count": 16214,
+    "stargazers_count": 16215,
     "language": "JavaScript"
   },
   {
@@ -1130,7 +1130,7 @@
     "name": "aggregator",
     "full_name": "wzdnzd/aggregator",
     "description": "One-stop Proxies Crawling and Aggregation Platform",
-    "stargazers_count": 5958,
+    "stargazers_count": 5960,
     "language": "Python"
   },
   {
@@ -1139,7 +1139,7 @@
     "name": "oneimg",
     "full_name": "byodian/oneimg",
     "description": "文字转图片应用。适合微信公众号长图推文以及小红书、Instagram 等图片社交媒体贴文制作",
-    "stargazers_count": 830,
+    "stargazers_count": 831,
     "language": "TypeScript"
   },
   {
@@ -1157,7 +1157,7 @@
     "name": "AppFlowy",
     "full_name": "AppFlowy-IO/AppFlowy",
     "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
-    "stargazers_count": 67435,
+    "stargazers_count": 67452,
     "language": "Dart"
   },
   {
@@ -1166,7 +1166,7 @@
     "name": "fabric.js",
     "full_name": "fabricjs/fabric.js",
     "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
-    "stargazers_count": 30787,
+    "stargazers_count": 30790,
     "language": "TypeScript"
   },
   {
@@ -1184,7 +1184,7 @@
     "name": "chinese-independent-developer",
     "full_name": "1c7/chinese-independent-developer",
     "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
-    "stargazers_count": 46182,
+    "stargazers_count": 46183,
     "language": null
   },
   {
@@ -1202,7 +1202,7 @@
     "name": "univer",
     "full_name": "dream-num/univer",
     "description": "Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer Platform, Univer Spreadsheets is driven directly through natural language.",
-    "stargazers_count": 12101,
+    "stargazers_count": 12106,
     "language": "TypeScript"
   },
   {
@@ -1211,7 +1211,7 @@
     "name": "drizzle-orm",
     "full_name": "drizzle-team/drizzle-orm",
     "description": "ORM",
-    "stargazers_count": 32246,
+    "stargazers_count": 32262,
     "language": "TypeScript"
   },
   {
@@ -1220,7 +1220,7 @@
     "name": "sheetjs",
     "full_name": "SheetJS/sheetjs",
     "description": "📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs",
-    "stargazers_count": 36120,
+    "stargazers_count": 36121,
     "language": null
   },
   {
@@ -1229,7 +1229,7 @@
     "name": "tabby",
     "full_name": "Eugeny/tabby",
     "description": "A terminal for a more modern age",
-    "stargazers_count": 68089,
+    "stargazers_count": 68114,
     "language": "TypeScript"
   },
   {
@@ -1238,7 +1238,7 @@
     "name": "starship",
     "full_name": "starship/starship",
     "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-    "stargazers_count": 53328,
+    "stargazers_count": 53364,
     "language": "Rust"
   },
   {
@@ -1247,7 +1247,7 @@
     "name": "zsh-autosuggestions",
     "full_name": "zsh-users/zsh-autosuggestions",
     "description": "Fish-like autosuggestions for zsh",
-    "stargazers_count": 34554,
+    "stargazers_count": 34559,
     "language": "Shell"
   },
   {
@@ -1256,7 +1256,7 @@
     "name": "floating-vue",
     "full_name": "Akryum/floating-vue",
     "description": "💬 Easy tooltips, popovers, dropdown, menus... for Vue",
-    "stargazers_count": 3459,
+    "stargazers_count": 3458,
     "language": "TypeScript"
   },
   {
@@ -1274,7 +1274,7 @@
     "name": "shadcn-vue",
     "full_name": "unovue/shadcn-vue",
     "description": "Vue port of shadcn-ui",
-    "stargazers_count": 9127,
+    "stargazers_count": 9131,
     "language": "TypeScript"
   },
   {
@@ -1292,7 +1292,7 @@
     "name": "marktext",
     "full_name": "marktext/marktext",
     "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
-    "stargazers_count": 53150,
+    "stargazers_count": 53162,
     "language": "JavaScript"
   },
   {
@@ -1328,7 +1328,7 @@
     "name": "KLineChart",
     "full_name": "klinecharts/KLineChart",
     "description": "📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻量级k线图，无第三方依赖，支持移动端）",
-    "stargazers_count": 3488,
+    "stargazers_count": 3492,
     "language": "TypeScript"
   },
   {
@@ -1337,7 +1337,7 @@
     "name": "anime",
     "full_name": "juliangarnier/anime",
     "description": "JavaScript animation engine",
-    "stargazers_count": 65809,
+    "stargazers_count": 65815,
     "language": "JavaScript"
   },
   {
@@ -1364,7 +1364,7 @@
     "name": "nitro",
     "full_name": "nitrojs/nitro",
     "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
-    "stargazers_count": 10151,
+    "stargazers_count": 10152,
     "language": "TypeScript"
   },
   {
@@ -1382,7 +1382,7 @@
     "name": "logto",
     "full_name": "logto-io/logto",
     "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-    "stargazers_count": 11394,
+    "stargazers_count": 11395,
     "language": "TypeScript"
   },
   {
@@ -1391,7 +1391,7 @@
     "name": "fullPage.js",
     "full_name": "alvarotrigo/fullPage.js",
     "description": "fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple",
-    "stargazers_count": 35485,
+    "stargazers_count": 35484,
     "language": "JavaScript"
   },
   {
@@ -1400,7 +1400,7 @@
     "name": "nuxt",
     "full_name": "nuxt/nuxt",
     "description": "The Full-Stack Vue Framework.",
-    "stargazers_count": 59305,
+    "stargazers_count": 59316,
     "language": "TypeScript"
   },
   {
@@ -1427,7 +1427,7 @@
     "name": "caddy",
     "full_name": "caddyserver/caddy",
     "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-    "stargazers_count": 69065,
+    "stargazers_count": 69086,
     "language": "Go"
   },
   {
@@ -1445,7 +1445,7 @@
     "name": "gitignore",
     "full_name": "github/gitignore",
     "description": "A collection of useful .gitignore templates",
-    "stargazers_count": 171713,
+    "stargazers_count": 171734,
     "language": null
   },
   {
@@ -1472,7 +1472,7 @@
     "name": "lottie-web",
     "full_name": "airbnb/lottie-web",
     "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/",
-    "stargazers_count": 31643,
+    "stargazers_count": 31646,
     "language": "JavaScript"
   },
   {
@@ -1481,7 +1481,7 @@
     "name": "laf",
     "full_name": "labring/laf",
     "description": "Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring innovative ideas to life with ease.",
-    "stargazers_count": 7616,
+    "stargazers_count": 7614,
     "language": "TypeScript"
   },
   {
@@ -1490,7 +1490,7 @@
     "name": "keyviz",
     "full_name": "mulaRahul/keyviz",
     "description": "Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.",
-    "stargazers_count": 8739,
+    "stargazers_count": 8748,
     "language": "Dart"
   },
   {
@@ -1499,7 +1499,7 @@
     "name": "PowerToys-Run-ClipboardManager",
     "full_name": "CoreyHayward/PowerToys-Run-ClipboardManager",
     "description": "PowerToys Run Plugin enabling searching of the clipboard history and pasting the selected item.",
-    "stargazers_count": 234,
+    "stargazers_count": 233,
     "language": "C#"
   },
   {
@@ -1508,7 +1508,7 @@
     "name": "EverythingPowerToys",
     "full_name": "lin-ycv/EverythingPowerToys",
     "description": "Everything search plugin for PowerToys Run",
-    "stargazers_count": 3181,
+    "stargazers_count": 3182,
     "language": "C#"
   },
   {
@@ -1517,7 +1517,7 @@
     "name": "STranslate",
     "full_name": "STranslate/STranslate",
     "description": "A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具",
-    "stargazers_count": 5254,
+    "stargazers_count": 5262,
     "language": "C#"
   },
   {
@@ -1535,7 +1535,7 @@
     "name": "excalidraw",
     "full_name": "excalidraw/excalidraw",
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-    "stargazers_count": 114134,
+    "stargazers_count": 114182,
     "language": "TypeScript"
   },
   {
@@ -1544,7 +1544,7 @@
     "name": "wechat-bot",
     "full_name": "wangrongding/wechat-bot",
     "description": "🤖一个基于 WeChaty 结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
-    "stargazers_count": 9521,
+    "stargazers_count": 9528,
     "language": "JavaScript"
   },
   {
@@ -1553,7 +1553,7 @@
     "name": "awesome-wechat-weapp",
     "full_name": "justjavac/awesome-wechat-weapp",
     "description": "微信小程序开发资源汇总 :100:",
-    "stargazers_count": 50234,
+    "stargazers_count": 50243,
     "language": null
   },
   {
@@ -1562,7 +1562,7 @@
     "name": "fucking-algorithm",
     "full_name": "labuladong/fucking-algorithm",
     "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. ",
-    "stargazers_count": 132033,
+    "stargazers_count": 132044,
     "language": "Markdown"
   },
   {
@@ -1580,7 +1580,7 @@
     "name": "ui",
     "full_name": "shadcn-ui/ui",
     "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
-    "stargazers_count": 104540,
+    "stargazers_count": 104606,
     "language": "TypeScript"
   },
   {
@@ -1589,7 +1589,7 @@
     "name": "next-auth",
     "full_name": "nextauthjs/next-auth",
     "description": "Authentication for the Web.",
-    "stargazers_count": 27977,
+    "stargazers_count": 27978,
     "language": "TypeScript"
   },
   {
@@ -1598,7 +1598,7 @@
     "name": "create-t3-app",
     "full_name": "t3-oss/create-t3-app",
     "description": "The best way to start a full-stack, typesafe Next.js app ",
-    "stargazers_count": 28443,
+    "stargazers_count": 28451,
     "language": "TypeScript"
   },
   {
@@ -1625,7 +1625,7 @@
     "name": "nocode",
     "full_name": "kelseyhightower/nocode",
     "description": "The best way to write secure and reliable applications. Write nothing; deploy nowhere.",
-    "stargazers_count": 64544,
+    "stargazers_count": 64555,
     "language": "Dockerfile"
   },
   {
@@ -1634,7 +1634,7 @@
     "name": "omi",
     "full_name": "Tencent/omi",
     "description": "Web Components Framework - Web组件框架",
-    "stargazers_count": 13253,
+    "stargazers_count": 13254,
     "language": "TypeScript"
   },
   {
@@ -1643,7 +1643,7 @@
     "name": "esProc",
     "full_name": "SPLWare/esProc",
     "description": "esProc SPL is a JVM-based programming language designed for structured data computation, serving as both a data analysis tool and an embedded computing engine.",
-    "stargazers_count": 4688,
+    "stargazers_count": 4687,
     "language": "Java"
   },
   {
@@ -1652,7 +1652,7 @@
     "name": "screenshot-to-code",
     "full_name": "abi/screenshot-to-code",
     "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-    "stargazers_count": 71372,
+    "stargazers_count": 71375,
     "language": "Python"
   },
   {
@@ -1706,7 +1706,7 @@
     "name": "leek-fund",
     "full_name": "LeekHub/leek-fund",
     "description": ":chart_with_upwards_trend: 韭菜盒子VSCode插件，可以看股票、基金、期货等实时数据。 Leek box - Monitor the real-time data of stock & fund & future in VSCode, Be the most excellent investment extension. ",
-    "stargazers_count": 3457,
+    "stargazers_count": 3458,
     "language": "TypeScript"
   },
   {
@@ -1724,7 +1724,7 @@
     "name": "alist",
     "full_name": "AlistGo/alist",
     "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
-    "stargazers_count": 48794,
+    "stargazers_count": 48800,
     "language": "Go"
   },
   {
@@ -1742,7 +1742,7 @@
     "name": "mp-html",
     "full_name": "jin-yufeng/mp-html",
     "description": "小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用",
-    "stargazers_count": 3659,
+    "stargazers_count": 3658,
     "language": "JavaScript"
   },
   {
@@ -1751,7 +1751,7 @@
     "name": "clash-rules",
     "full_name": "Loyalsoldier/clash-rules",
     "description": "🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。",
-    "stargazers_count": 23862,
+    "stargazers_count": 23875,
     "language": null
   },
   {
@@ -1760,7 +1760,7 @@
     "name": "ag-grid",
     "full_name": "ag-grid/ag-grid",
     "description": "The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.",
-    "stargazers_count": 14920,
+    "stargazers_count": 14923,
     "language": "TypeScript"
   },
   {
@@ -1778,7 +1778,7 @@
     "name": "Gifski",
     "full_name": "sindresorhus/Gifski",
     "description": "🌈 Convert videos to high-quality GIFs on your Mac",
-    "stargazers_count": 8274,
+    "stargazers_count": 8275,
     "language": "Swift"
   },
   {
@@ -1787,7 +1787,7 @@
     "name": "nvim-lspconfig",
     "full_name": "neovim/nvim-lspconfig",
     "description": "Quickstart configs for Nvim LSP",
-    "stargazers_count": 13210,
+    "stargazers_count": 13211,
     "language": "Lua"
   },
   {
@@ -1796,7 +1796,7 @@
     "name": "gruvbox.nvim",
     "full_name": "ellisonleao/gruvbox.nvim",
     "description": "Lua port of the most famous vim colorscheme",
-    "stargazers_count": 2426,
+    "stargazers_count": 2428,
     "language": "Lua"
   },
   {
@@ -1805,7 +1805,7 @@
     "name": "AstroNvim",
     "full_name": "AstroNvim/AstroNvim",
     "description": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins ",
-    "stargazers_count": 14030,
+    "stargazers_count": 14033,
     "language": "Lua"
   },
   {
@@ -1814,7 +1814,7 @@
     "name": "LazyVim",
     "full_name": "LazyVim/LazyVim",
     "description": "Neovim config for the lazy",
-    "stargazers_count": 24564,
+    "stargazers_count": 24578,
     "language": "Lua"
   },
   {
@@ -1823,7 +1823,7 @@
     "name": "mason.nvim",
     "full_name": "mason-org/mason.nvim",
     "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
-    "stargazers_count": 9906,
+    "stargazers_count": 9911,
     "language": "Lua"
   },
   {
@@ -1841,7 +1841,7 @@
     "name": "public-apis",
     "full_name": "public-apis/public-apis",
     "description": "A collective list of free APIs",
-    "stargazers_count": 390504,
+    "stargazers_count": 390635,
     "language": "Python"
   },
   {
@@ -1850,7 +1850,7 @@
     "name": "free-api",
     "full_name": "fangzesheng/free-api",
     "description": "收集免费的接口服务,做一个api的搬运工",
-    "stargazers_count": 15881,
+    "stargazers_count": 15884,
     "language": null
   },
   {
@@ -1877,7 +1877,7 @@
     "name": "taro",
     "full_name": "NervJS/taro",
     "description": "开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/",
-    "stargazers_count": 37210,
+    "stargazers_count": 37211,
     "language": "TypeScript"
   },
   {
@@ -1913,7 +1913,7 @@
     "name": "Chat2DB",
     "full_name": "CodePhiliaX/Chat2DB",
     "description": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-    "stargazers_count": 24935,
+    "stargazers_count": 24936,
     "language": "Java"
   },
   {
@@ -1967,7 +1967,7 @@
     "name": "996.ICU",
     "full_name": "996icu/996.ICU",
     "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
-    "stargazers_count": 275136,
+    "stargazers_count": 275140,
     "language": null
   },
   {
@@ -1994,7 +1994,7 @@
     "name": "tickets",
     "full_name": "shiyutim/tickets",
     "description": "大麦、大麦网 演唱会抢票软件，一个基于 tauri + rust + vue 调用接口的抢票软件。",
-    "stargazers_count": 3059,
+    "stargazers_count": 3060,
     "language": "Vue"
   },
   {
@@ -2012,7 +2012,7 @@
     "name": "rxdrag",
     "full_name": "codebdy/rxdrag",
     "description": "Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。",
-    "stargazers_count": 3763,
+    "stargazers_count": 3764,
     "language": "TypeScript"
   },
   {
@@ -2021,7 +2021,7 @@
     "name": "ChatGPT-Shortcut",
     "full_name": "rockbenben/ChatGPT-Shortcut",
     "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
-    "stargazers_count": 6909,
+    "stargazers_count": 6921,
     "language": "TypeScript"
   },
   {
@@ -2030,7 +2030,7 @@
     "name": "Prompt-Engineering-Guide",
     "full_name": "dair-ai/Prompt-Engineering-Guide",
     "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
-    "stargazers_count": 68985,
+    "stargazers_count": 69012,
     "language": "MDX"
   },
   {
@@ -2057,7 +2057,7 @@
     "name": "LangGPT",
     "full_name": "langgptai/LangGPT",
     "description": "LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured & meta-prompt design 10,000+ ⭐ | Battle-tested by thousands of users worldwide  Created by 云中江树",
-    "stargazers_count": 11407,
+    "stargazers_count": 11417,
     "language": "Jupyter Notebook"
   },
   {
@@ -2066,7 +2066,7 @@
     "name": "pyinstxtractor",
     "full_name": "extremecoders-re/pyinstxtractor",
     "description": "PyInstaller Extractor",
-    "stargazers_count": 4027,
+    "stargazers_count": 4029,
     "language": "Python"
   },
   {
@@ -2075,7 +2075,7 @@
     "name": "gpt4free-ts",
     "full_name": "xiangsx/gpt4free-ts",
     "description": "Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free",
-    "stargazers_count": 7768,
+    "stargazers_count": 7767,
     "language": "TypeScript"
   },
   {
@@ -2084,7 +2084,7 @@
     "name": "awesome-chatgpt-prompts-zh",
     "full_name": "PlexPt/awesome-chatgpt-prompts-zh",
     "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
-    "stargazers_count": 57801,
+    "stargazers_count": 57815,
     "language": null
   },
   {
@@ -2093,7 +2093,7 @@
     "name": "AgentGPT",
     "full_name": "reworkd/AgentGPT",
     "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
-    "stargazers_count": 35469,
+    "stargazers_count": 35472,
     "language": "TypeScript"
   },
   {
@@ -2120,7 +2120,7 @@
     "name": "emoji-mart",
     "full_name": "missive/emoji-mart",
     "description": "🏪 One component to pick them all",
-    "stargazers_count": 9260,
+    "stargazers_count": 9261,
     "language": "TypeScript"
   },
   {
@@ -2129,7 +2129,7 @@
     "name": "SSR-V2ray-Trojan-vpn",
     "full_name": "hwanz/SSR-V2ray-Trojan-vpn",
     "description": "免费机场公益机场收集/免费vpn-定时更新",
-    "stargazers_count": 5606,
+    "stargazers_count": 5619,
     "language": null
   },
   {
@@ -2138,7 +2138,7 @@
     "name": "cursor",
     "full_name": "cursor/cursor",
     "description": "The AI Code Editor",
-    "stargazers_count": 32005,
+    "stargazers_count": 32009,
     "language": null
   },
   {
@@ -2147,7 +2147,7 @@
     "name": "awesome-chatgpt-prompts",
     "full_name": "f/awesome-chatgpt-prompts",
     "description": "Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-    "stargazers_count": 142031,
+    "stargazers_count": 142110,
     "language": "TypeScript"
   },
   {
@@ -2165,7 +2165,7 @@
     "name": "vue-pure-admin",
     "full_name": "pure-admin/vue-pure-admin",
     "description": "全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
-    "stargazers_count": 19563,
+    "stargazers_count": 19571,
     "language": "Vue"
   },
   {
@@ -2174,7 +2174,7 @@
     "name": "BetterDisplay",
     "full_name": "waydabber/BetterDisplay",
     "description": "Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!",
-    "stargazers_count": 29081,
+    "stargazers_count": 29091,
     "language": null
   },
   {
@@ -2210,7 +2210,7 @@
     "name": "awesome-nestjs",
     "full_name": "nestjs/awesome-nestjs",
     "description": "A curated list of awesome things related to NestJS 😎",
-    "stargazers_count": 12693,
+    "stargazers_count": 12698,
     "language": null
   },
   {
@@ -2219,7 +2219,7 @@
     "name": "next.js",
     "full_name": "vercel/next.js",
     "description": "The React Framework",
-    "stargazers_count": 137075,
+    "stargazers_count": 137088,
     "language": "JavaScript"
   },
   {
@@ -2228,7 +2228,7 @@
     "name": "slidev",
     "full_name": "slidevjs/slidev",
     "description": "Presentation Slides for Developers",
-    "stargazers_count": 43561,
+    "stargazers_count": 43571,
     "language": "TypeScript"
   },
   {
@@ -2237,7 +2237,7 @@
     "name": "unocss",
     "full_name": "unocss/unocss",
     "description": "The instant on-demand atomic CSS engine.",
-    "stargazers_count": 18451,
+    "stargazers_count": 18456,
     "language": "TypeScript"
   },
   {
@@ -2264,7 +2264,7 @@
     "name": "the-craft-of-selfteaching",
     "full_name": "selfteaching/the-craft-of-selfteaching",
     "description": "One has no future if one couldn't teach themself.",
-    "stargazers_count": 15809,
+    "stargazers_count": 15811,
     "language": "Jupyter Notebook"
   },
   {
@@ -2273,7 +2273,7 @@
     "name": "web-interview",
     "full_name": "febobo/web-interview",
     "description": "语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题",
-    "stargazers_count": 11652,
+    "stargazers_count": 11654,
     "language": null
   },
   {
@@ -2282,7 +2282,7 @@
     "name": "vim-galore-zh_cn",
     "full_name": "wsdjeg/vim-galore-zh_cn",
     "description": "Vim 从入门到精通",
-    "stargazers_count": 10674,
+    "stargazers_count": 10673,
     "language": "Vim Script"
   },
   {
@@ -2318,7 +2318,7 @@
     "name": "rustdesk",
     "full_name": "rustdesk/rustdesk",
     "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-    "stargazers_count": 105467,
+    "stargazers_count": 105536,
     "language": "Rust"
   },
   {
@@ -2327,7 +2327,7 @@
     "name": "HowToCook",
     "full_name": "Anduin2017/HowToCook",
     "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
-    "stargazers_count": 96985,
+    "stargazers_count": 96996,
     "language": "Dockerfile"
   },
   {
@@ -2381,7 +2381,7 @@
     "name": "html5-qrcode",
     "full_name": "mebjas/html5-qrcode",
     "description": "A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org",
-    "stargazers_count": 5964,
+    "stargazers_count": 5965,
     "language": "TypeScript"
   },
   {
@@ -2390,7 +2390,7 @@
     "name": "astro",
     "full_name": "withastro/astro",
     "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
-    "stargazers_count": 55478,
+    "stargazers_count": 55508,
     "language": "TypeScript"
   },
   {
@@ -2408,7 +2408,7 @@
     "name": "JsBarcode",
     "full_name": "lindell/JsBarcode",
     "description": "Barcode generation library written in JavaScript that works in both the browser and on Node.js",
-    "stargazers_count": 5817,
+    "stargazers_count": 5818,
     "language": "JavaScript"
   },
   {
@@ -2417,7 +2417,7 @@
     "name": "css-protips",
     "full_name": "AllThingsSmitty/css-protips",
     "description": "⚡️ A collection of tips to help take your CSS skills pro 🦾",
-    "stargazers_count": 29735,
+    "stargazers_count": 29738,
     "language": null
   },
   {
@@ -2435,7 +2435,7 @@
     "name": "You-Dont-Know-JS",
     "full_name": "getify/You-Dont-Know-JS",
     "description": "A book series (2 published editions) on the JS language.",
-    "stargazers_count": 184247,
+    "stargazers_count": 184256,
     "language": null
   },
   {
@@ -2444,7 +2444,7 @@
     "name": "awesome-tailwindcss",
     "full_name": "aniftyco/awesome-tailwindcss",
     "description": "😎 Awesome things related to Tailwind CSS",
-    "stargazers_count": 14805,
+    "stargazers_count": 14806,
     "language": null
   },
   {
@@ -2462,7 +2462,7 @@
     "name": "xo",
     "full_name": "xojs/xo",
     "description": "❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults",
-    "stargazers_count": 7944,
+    "stargazers_count": 7945,
     "language": "TypeScript"
   },
   {
@@ -2480,7 +2480,7 @@
     "name": "modern.js",
     "full_name": "web-infra-dev/modern.js",
     "description": "A progressive web framework based on React and Rsbuild.",
-    "stargazers_count": 4932,
+    "stargazers_count": 4933,
     "language": "TypeScript"
   },
   {
@@ -2489,7 +2489,7 @@
     "name": "30-seconds-of-code",
     "full_name": "Chalarangelo/30-seconds-of-code",
     "description": "Coding articles to level up your development skills",
-    "stargazers_count": 126266,
+    "stargazers_count": 126281,
     "language": "JavaScript"
   },
   {
@@ -2498,7 +2498,7 @@
     "name": "type-challenges",
     "full_name": "type-challenges/type-challenges",
     "description": "Collection of TypeScript type challenges with online judge",
-    "stargazers_count": 47471,
+    "stargazers_count": 47475,
     "language": "TypeScript"
   },
   {
@@ -2516,7 +2516,7 @@
     "name": "obsidian-linter",
     "full_name": "platers/obsidian-linter",
     "description": "An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.",
-    "stargazers_count": 1724,
+    "stargazers_count": 1730,
     "language": "TypeScript"
   },
   {
@@ -2525,7 +2525,7 @@
     "name": "ish",
     "full_name": "ish-app/ish",
     "description": "Linux shell for iOS",
-    "stargazers_count": 19086,
+    "stargazers_count": 19091,
     "language": "C"
   },
   {
@@ -2552,7 +2552,7 @@
     "name": "tailwindcss",
     "full_name": "tailwindlabs/tailwindcss",
     "description": "A utility-first CSS framework for rapid UI development.",
-    "stargazers_count": 92671,
+    "stargazers_count": 92731,
     "language": "TypeScript"
   },
   {
@@ -2561,7 +2561,7 @@
     "name": "How-To-Ask-Questions-The-Smart-Way",
     "full_name": "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
     "description": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
-    "stargazers_count": 34363,
+    "stargazers_count": 34366,
     "language": "JavaScript"
   },
   {
@@ -2579,7 +2579,7 @@
     "name": "SummaryOfLoanSuspension",
     "full_name": "WeNeedHome/SummaryOfLoanSuspension",
     "description": "全国各省市停贷通知汇总",
-    "stargazers_count": 20575,
+    "stargazers_count": 20574,
     "language": "HTML"
   },
   {
@@ -2615,7 +2615,7 @@
     "name": "tauri",
     "full_name": "tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
-    "stargazers_count": 101040,
+    "stargazers_count": 101100,
     "language": "Rust"
   },
   {
@@ -2624,7 +2624,7 @@
     "name": "normalize.css",
     "full_name": "necolas/normalize.css",
     "description": "A modern alternative to CSS resets",
-    "stargazers_count": 53757,
+    "stargazers_count": 53760,
     "language": "CSS"
   },
   {
@@ -2642,7 +2642,7 @@
     "name": "yew",
     "full_name": "yewstack/yew",
     "description": "Rust / Wasm framework for creating reliable and efficient web applications",
-    "stargazers_count": 32305,
+    "stargazers_count": 32309,
     "language": "Rust"
   },
   {
@@ -2651,7 +2651,7 @@
     "name": "document-style-guide",
     "full_name": "ruanyf/document-style-guide",
     "description": "中文技术文档的写作规范",
-    "stargazers_count": 12478,
+    "stargazers_count": 12477,
     "language": null
   },
   {
@@ -2660,7 +2660,7 @@
     "name": "neovim",
     "full_name": "neovim/neovim",
     "description": "Vim-fork focused on extensibility and usability",
-    "stargazers_count": 95579,
+    "stargazers_count": 95607,
     "language": "Vim Script"
   },
   {
@@ -2678,7 +2678,7 @@
     "name": "core",
     "full_name": "vuejs/core",
     "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
-    "stargazers_count": 52682,
+    "stargazers_count": 52683,
     "language": "TypeScript"
   },
   {
@@ -2687,7 +2687,7 @@
     "name": "vue",
     "full_name": "vuejs/vue",
     "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
-    "stargazers_count": 209829,
+    "stargazers_count": 209830,
     "language": "TypeScript"
   },
   {
@@ -2696,7 +2696,7 @@
     "name": "awesome-vue",
     "full_name": "vuejs/awesome-vue",
     "description": "🎉 A curated list of awesome things related to Vue.js",
-    "stargazers_count": 73583,
+    "stargazers_count": 73585,
     "language": null
   },
   {
@@ -2705,7 +2705,7 @@
     "name": "vite",
     "full_name": "vitejs/vite",
     "description": "Next generation frontend tooling. It's fast!",
-    "stargazers_count": 77502,
+    "stargazers_count": 77516,
     "language": "TypeScript"
   },
   {
@@ -2732,7 +2732,7 @@
     "name": "weekly",
     "full_name": "ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
-    "stargazers_count": 82198,
+    "stargazers_count": 82248,
     "language": null
   },
   {
@@ -2750,7 +2750,7 @@
     "name": "ms",
     "full_name": "vercel/ms",
     "description": "Tiny millisecond conversion utility",
-    "stargazers_count": 5484,
+    "stargazers_count": 5486,
     "language": "TypeScript"
   },
   {
@@ -2759,7 +2759,7 @@
     "name": "weekly",
     "full_name": "ascoders/weekly",
     "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
-    "stargazers_count": 30790,
+    "stargazers_count": 30793,
     "language": "JavaScript"
   },
   {
@@ -2786,7 +2786,7 @@
     "name": "til",
     "full_name": "jbranchaud/til",
     "description": ":memo: Today I Learned",
-    "stargazers_count": 14016,
+    "stargazers_count": 14015,
     "language": "Vim Script"
   },
   {
@@ -2795,7 +2795,7 @@
     "name": "jsoncrack.com",
     "full_name": "AykutSarac/jsoncrack.com",
     "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
-    "stargazers_count": 42766,
+    "stargazers_count": 42771,
     "language": "TypeScript"
   },
   {
@@ -2804,7 +2804,7 @@
     "name": "es6features",
     "full_name": "lukehoban/es6features",
     "description": "Overview of ECMAScript 6 features",
-    "stargazers_count": 29162,
+    "stargazers_count": 29161,
     "language": null
   },
   {
@@ -2840,7 +2840,7 @@
     "name": "csslayout",
     "full_name": "phuocng/csslayout",
     "description": "A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!",
-    "stargazers_count": 8088,
+    "stargazers_count": 8089,
     "language": "MDX"
   },
   {
@@ -2849,7 +2849,7 @@
     "name": "video-subtitle-extractor",
     "full_name": "YaoFANGUK/video-subtitle-extractor",
     "description": "视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files. ",
-    "stargazers_count": 8287,
+    "stargazers_count": 8290,
     "language": "Python"
   },
   {
@@ -2867,7 +2867,7 @@
     "name": "WxJava",
     "full_name": "binarywang/WxJava",
     "description": "微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发",
-    "stargazers_count": 32430,
+    "stargazers_count": 32434,
     "language": "Java"
   },
   {
@@ -2894,7 +2894,7 @@
     "name": "programmer-job-blacklist",
     "full_name": "shengxinjing/programmer-job-blacklist",
     "description": ":see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞",
-    "stargazers_count": 28467,
+    "stargazers_count": 28468,
     "language": "Shell"
   },
   {
@@ -2903,7 +2903,7 @@
     "name": "three.js",
     "full_name": "mrdoob/three.js",
     "description": "JavaScript 3D Library.",
-    "stargazers_count": 110242,
+    "stargazers_count": 110254,
     "language": "JavaScript"
   },
   {
@@ -2939,7 +2939,7 @@
     "name": "commander.js",
     "full_name": "tj/commander.js",
     "description": "node.js command-line interfaces made easy",
-    "stargazers_count": 27865,
+    "stargazers_count": 27867,
     "language": "JavaScript"
   },
   {
@@ -2948,7 +2948,7 @@
     "name": "copilot-docs",
     "full_name": "github/copilot-docs",
     "description": "Documentation for GitHub Copilot",
-    "stargazers_count": 23266,
+    "stargazers_count": 23267,
     "language": null
   },
   {
@@ -3002,7 +3002,7 @@
     "name": "vueuse",
     "full_name": "vueuse/vueuse",
     "description": "Collection of essential Vue Composition Utilities for Vue 3",
-    "stargazers_count": 21998,
+    "stargazers_count": 22001,
     "language": "TypeScript"
   },
   {
@@ -3011,7 +3011,7 @@
     "name": "Daily-Interview-Question",
     "full_name": "Advanced-Frontend/Daily-Interview-Question",
     "description": "我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
-    "stargazers_count": 27508,
+    "stargazers_count": 27510,
     "language": "JavaScript"
   },
   {
@@ -3020,7 +3020,7 @@
     "name": "zeal",
     "full_name": "zealdocs/zeal",
     "description": "Offline documentation browser inspired by Dash",
-    "stargazers_count": 12473,
+    "stargazers_count": 12474,
     "language": "C++"
   },
   {
@@ -3029,7 +3029,7 @@
     "name": "zx",
     "full_name": "google/zx",
     "description": "A tool for writing better scripts",
-    "stargazers_count": 45033,
+    "stargazers_count": 45039,
     "language": "JavaScript"
   },
   {
@@ -3065,7 +3065,7 @@
     "name": "lx-music-desktop",
     "full_name": "lyswhut/lx-music-desktop",
     "description": "一个基于 Electron 的音乐软件",
-    "stargazers_count": 48209,
+    "stargazers_count": 48226,
     "language": "TypeScript"
   },
   {
@@ -3092,7 +3092,7 @@
     "name": "core",
     "full_name": "adonisjs/core",
     "description": "AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.",
-    "stargazers_count": 18563,
+    "stargazers_count": 18564,
     "language": "TypeScript"
   },
   {
@@ -3110,7 +3110,7 @@
     "name": "docker_practice",
     "full_name": "yeasy/docker_practice",
     "description": "Learn and understand Docker&Container technologies, with real DevOps practice!",
-    "stargazers_count": 25779,
+    "stargazers_count": 25780,
     "language": "Go"
   },
   {
@@ -3119,7 +3119,7 @@
     "name": "nerd-fonts",
     "full_name": "ryanoasis/nerd-fonts",
     "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
-    "stargazers_count": 61191,
+    "stargazers_count": 61202,
     "language": "CSS"
   },
   {
@@ -3137,7 +3137,7 @@
     "name": "ohmyzsh",
     "full_name": "ohmyzsh/ohmyzsh",
     "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-    "stargazers_count": 183865,
+    "stargazers_count": 183884,
     "language": "Shell"
   },
   {
@@ -3146,7 +3146,7 @@
     "name": "NeteaseCloudMusicApi",
     "full_name": "Binaryify/NeteaseCloudMusicApi",
     "description": "网易云音乐 Node.js API service",
-    "stargazers_count": 30306,
+    "stargazers_count": 30308,
     "language": null
   },
   {
@@ -3173,7 +3173,7 @@
     "name": "VBlog",
     "full_name": "lenve/VBlog",
     "description": "V部落，Vue+SpringBoot实现的多用户博客管理平台!",
-    "stargazers_count": 7439,
+    "stargazers_count": 7438,
     "language": "Java"
   },
   {
@@ -3182,7 +3182,7 @@
     "name": "REKCARC-TSC-UHT",
     "full_name": "PKUanonym/REKCARC-TSC-UHT",
     "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
-    "stargazers_count": 36391,
+    "stargazers_count": 36399,
     "language": "HTML"
   },
   {
@@ -3196,9 +3196,9 @@
   },
   {
     "id": 127289585,
-    "html_url": "https://github.com/BaronZ88/HelloBinder",
+    "html_url": "https://github.com/byronz88/HelloBinder",
     "name": "HelloBinder",
-    "full_name": "BaronZ88/HelloBinder",
+    "full_name": "byronz88/HelloBinder",
     "description": null,
     "stargazers_count": 111,
     "language": "Java"
